@@ -22,7 +22,7 @@ Workspace required to have these folders and files:
 ```
 Run the following command to build the docker. 
 ```
-sudo docker build -t ddrslam.
+sudo docker build -t ddrslam .
 ```
 # Run the docker
 The following command will open a docker terminal
